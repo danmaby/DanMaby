@@ -8,4 +8,4 @@ I'm an entrepreneur passionate about [people](https://www.bigorangeheart.org), [
 
 - Sharing insights on [Bluesky](https://bsky.app/profile/danmaby.com) 💙
 - Connecting professionally on [LinkedIn](https://www.linkedin.com/in/danmaby/) 💼
-- WordPress and community focused events at [#WPLDN](https://www.meetup.com/WordPress-London/) 🗓️
+- WordPress and community focused events at [#WPLDN](https://www.meetup.com/London-WordPress/) 🗓️
